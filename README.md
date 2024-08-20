@@ -1,6 +1,6 @@
 # Responsive Webpage
 
-## Netlify website:
+## Netlify website:   https://simplotelhoteltemplate.netlify.app/
 
 
 ## Overview
