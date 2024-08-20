@@ -30,9 +30,11 @@ nav {
 .logo img {
     width: 80px;
 }
+
 .heading {
-    padding-left:40px;
+    padding-left:80px;
 }
+
 .nav-links {
     list-style: none;
     display: flex;
